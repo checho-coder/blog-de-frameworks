@@ -1,1 +1,3 @@
 El lunes Sergio tomará tutorias de bootstrap
+
+el martes se inicia la tutoria de foundation
