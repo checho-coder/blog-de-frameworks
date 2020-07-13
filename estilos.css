@@ -1,0 +1,14 @@
+.contenedor{
+    background-color: navy;
+    width: 80%;
+    height: auto;
+    margin: 20px auto;
+}
+
+h1,h2{
+    color: lightblue;
+}
+
+p{
+    color: white;
+}
