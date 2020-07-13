@@ -26,3 +26,15 @@ p{
 .angular-title{
     color: black;
 }
+
+#vuejs-articulo{
+    padding: 10px;
+    width: 80%;
+    height: auto;
+    margin: 20px auto;
+    background-color: aquamarine; 
+}
+
+.vuejs-title{
+    color: black;
+}
