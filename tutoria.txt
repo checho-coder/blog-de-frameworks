@@ -2,4 +2,4 @@ El lunes Sergio tomará tutorias de bootstrap
 
 el martes se inicia la tutoria de foundation
 
-el miercoles se inicial la tutoria de javascript
+el miercoles se inicia la tutoria de javascript
