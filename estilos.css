@@ -3,6 +3,7 @@
     width: 80%;
     height: auto;
     margin: 20px auto;
+    padding: 20px;
 }
 
 h1,h2{
@@ -11,4 +12,17 @@ h1,h2{
 
 p{
     color: white;
+}
+
+.blog-container{
+    padding: 10px;
+    width: 80%;
+    height: auto;
+    margin: 20px auto;
+    background-color: lavenderblush;
+
+}
+
+.angular-title{
+    color: black;
 }
